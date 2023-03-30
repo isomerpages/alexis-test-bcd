@@ -7,7 +7,7 @@ permalink: /
 notification: Here's a notification bar ydou can use!
 sections:
   - hero:
-      title: Hero titlef
+      title: Hero title
       subtitle: Hero subtitle
       background: /images/hero-banner.png
       button: Contact Us
