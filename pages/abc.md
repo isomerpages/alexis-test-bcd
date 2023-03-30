@@ -1,4 +1,5 @@
 ---
 title: Abc
-permalink: /abc
+permalink: /abc/
 ---
+aaa
